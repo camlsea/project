@@ -1,0 +1,2 @@
+# project
+solid_project
